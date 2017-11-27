@@ -1,0 +1,2 @@
+UI : https://www.nationalgeographic.com/magazine/2016/05/yellowstone-national-parks-bears-video/
+Parallax : https://www.w3schools.com/howto/tryhow_css_parallax_demo.htm
