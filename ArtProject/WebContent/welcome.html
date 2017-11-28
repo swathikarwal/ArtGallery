@@ -1,16 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html data-ng-app="myApp">
 <head>
-<meta charset="ISO-8859-1">
-<title>Welcome to my Gallery</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.7/angular.min.js"></script>
+	<meta charset="ISO-8859-1">
+	<title>Welcome to my Gallery</title>
 </head>
-<body>
+<body data-ng-controller="HomeController">
 
 	<div class="artparallax"></div>
 
 
 	<div class="header">
-			<h1 align="center">My Art</h1>
+			<h1 align="center">{{message}}</h1>
+			<script src="main.js"></script>
 	</div>
 	
 		<div class="artparallax"></div>
